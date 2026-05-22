@@ -7,7 +7,7 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FFB3&center=true&vCenter=true&width=500&lines=Node.js+%7C+TypeScript+%7C+Express.js;PostgreSQL+%7C+MongoDB+%7C+Docker;REST+APIs+%7C+JWT+Auth+%7C+RBAC;Open+to+remote+internships+%F0%9F%9A%80)](https://git.io/typing-svg)
+**[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FFB3&center=true&vCenter=true&width=500&lines=Node.js+%7C+TypeScript+%7C+Express.js;PostgreSQL+%7C+MongoDB+%7C+Docker;REST+APIs+%7C+JWT+Auth+%7C+RBAC;Open+to+remote+internships+%F0%9F%9A%80)](https://git.io/typing-svg)**
 
 </div>
 
