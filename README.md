@@ -1,100 +1,50 @@
 <div align="center">
 
-### `> Mohamed Hesham`
-**Backend Developer** — Alexandria, Egypt 🇪🇬
+# ♠️ Mohamed Hesham ♥️
+### *Backend Developer — Alexandria, Egypt 🇪🇬*
 
-*Building reliable systems, one endpoint at a time.*
+*"Bungee Gum... the property of rubber, and the property of gum."*
+*My code has the same property — it stretches to fit any bug, and sticks until it's fixed.*
 
 ---
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=1200&color=1F6FEB&center=true&vCenter=true&width=560&height=45&lines=Backend+Engineer+%26+API+Craftsman+%F0%9F%9A%80;Node.js+%7C+TypeScript+%7C+Express.js;PostgreSQL+%7C+Docker+%7C+Linux;REST+APIs+%7C+JWT+%7C+RBAC+%7C+Rate+Limiting;Building+reliable+systems+from+scratch;Open+to+remote+opportunities)](https://git.io/typing-svg)
 
 </div>
 
----
-
-## `> whoami`
+## 🃏 `> whoami`
 
 ```ts
 const mohamed = {
-  role:       "Backend Developer",
-  location:   "Alexandria, Egypt 🇪🇬",
-  learning:   ["Node.js", "TypeScript", "PostgreSQL", "Docker"],
-  building:   "Bun & Brew — a production-style coffee shop REST API",
-  goal:       "Land a remote backend internship in 2026",
-  available:  true,
+  role:      "Backend Developer",
+  location:  "Alexandria, EG",
+  stack:     ["Node.js", "TypeScript", "NestJS", "PostgreSQL", "Drizzle ORM"],
+  building:  "مكتبة — a library API, purely for the thrill of learning",
+  hunting:   "A remote backend role... ♦ I won't stop until I find one I like ♦",
+  warning:   "Careful — my bugs bite back",
 };
 ```
 
 ---
 
-## `> tech.stack`
+## ♣️ Skills on the Table
 
-<div align="center">
-  <p><strong>Languages, Frameworks & Core Tools</strong></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,nest,typescript,javascript,bun,postgres,mongodb,linux,bash,docker,git,webstorm&theme=dark&perline=6" alt="Tech Stack Grid" />
-  </a>
-</div>
+`REST APIs` · `JWT` · `RBAC` · `Rate Limiting` · `Docker (learning)` · `PostgreSQL`
+
+I don't play it safe — I test in production... *kidding.* 🤡
 
 ---
 
-## `> projects`
+## ♦️ Currently
 
-### 🟢 [Bun & Brew — Backend API](https://github.com/mohamedkernel/bun-brew-backend)
-> Production-style REST API for a coffee shop ordering system
-
-- **Stack:** Node.js · TypeScript · Express 5 · PostgreSQL · Bun
-- **Features:** JWT auth · Role-based access control · Full CRUD · Transactional order placement
-- **Status:** 🔨 In progress — deployment coming soon
-
----
-
-### ⚫ [navi — CLI File Manager](https://github.com/mohamedkernel/navi)
-> A terminal-based file manager built as a first real-world TypeScript project
-
-- **Stack:** Node.js · TypeScript · Commander.js · Inquirer · Chalk
-- **Features:** Interactive file navigation · ESM modules · Cross-platform CLI
-
----
-
-## `> goals`
-
-```
-[x] Build a production-style backend project
-[x] Implement JWT auth + RBAC from scratch
-[x] Write clean API documentation
-[ ] Deploy Bun & Brew to production
-[ ] Land a remote backend internship
-[ ] Never stop shipping
-```
-
----
-
-## `> stats`
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=mohamedkernel&theme=tokyonight&hide_border=false&border=00C896&background=0D1117&ring=00FFB3&fire=00FFB3&currStreakLabel=00FFB3)
-
-</div>
-
----
-
-## `> contact`
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-mohameddev34@gmail.com-006B4F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohameddev34@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamedkernel)
-[![GitHub](https://img.shields.io/badge/GitHub-mohamedkernel-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohamedkernel)
-
-*Open to remote backend internships and junior roles.*
-
-</div>
+- 🎯 Job hunting for remote junior backend roles
+- 📚 Deep in NestJS, sharpening my Bungee Gum until it never snaps
+- 🃏 Building projects not because I have to — because it's *fun*
 
 ---
 
 <div align="center">
-<sub>Built from scratch. No framework. No shortcuts. Just code. ⚡</sub>
+
+**Don't get too excited — you might lose your head trying to keep up.**
+
+`git clone` me if you dare 😏
+
 </div>
