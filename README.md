@@ -1,65 +1,84 @@
 <div align="center">
 
-# Mohamed Hesham
-### Backend Developer — Alexandria, Egypt 🇪🇬
+# Hey, I'm Mohamed Hesham 👋
 
-Self-taught backend developer. Building real projects instead of collecting tutorials, on the way to a remote junior role.
+### Backend Developer · Alexandria, Egypt 🇪🇬
 
-</div>
+I build practical backend systems with **Node.js**, **TypeScript**, and **PostgreSQL** — learning by shipping projects, not just finishing tutorials.
 
-<br>
-
-<div align="center">
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
+<a href="https://github.com/mohamedkernel">
+  <img src="https://img.shields.io/badge/GitHub-mohamedkernel-181717?style=for-the-badge&logo=github&logoColor=white" alt="Mohamed on GitHub" />
+</a>
 
 </div>
 
-<br>
+<br />
 
-## `> whoami`
+## 🧑‍💻 About me
 
 ```ts
 const mohamed = {
-  role:     "Backend Developer",
-  location: "Alexandria, EG",
-  stack:    ["Node.js", "TypeScript", "NestJS", "Express.js", "PostgreSQL (raw SQL)"],
-  focus:    ["REST APIs", "JWT auth", "RBAC"],
+  role: "Backend Developer",
+  location: "Alexandria, Egypt",
+  building: ["REST APIs", "secure authentication", "role-based access control"],
   learning: ["Docker", "NestJS internals", "system design fundamentals"],
-  goal:     "Remote junior backend role",
+  goal: "A remote junior backend role",
 };
 ```
 
-<br>
+I am a self-taught developer and Software Industry & Multimedia student at Alexandria University. I enjoy understanding what happens under the hood, especially when working with databases, authentication, and scalable API design.
 
-## Projects
+## 🛠️ Tech stack
 
-**Bun & Brew** — coffee shop REST API, my main portfolio piece
-Built with Express.js, JWT authentication and role-based access control. Deployed on Railway. *(add repo/live link here)*
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</p>
 
-**library-api** — NestJS learning project, in progress
-Connecting NestJS to PostgreSQL with raw SQL and dependency injection — no ORM, to actually understand what's happening underneath. *(add repo link here)*
+## 🚀 Projects
 
-<br>
+### ☕ Bun & Brew
 
-## Currently
+**Coffee shop REST API** — my main portfolio project.
 
-- Going deeper into NestJS past surface-level usage
-- Learning Docker from scratch
-- Studying Software Industry & Multimedia at Alexandria University
-- Applying for remote junior backend positions
+- Built with **Express.js** and **PostgreSQL**
+- JWT authentication and role-based access control (RBAC)
+- Designed around practical coffee-shop workflows
+- Deployed on Railway
 
-<br>
+> 🔗 Add your repository and live API links here once they are public.
+
+### 📚 Library API
+
+**NestJS learning project** — currently in progress.
+
+- Connects NestJS to PostgreSQL using **raw SQL**
+- Uses dependency injection without hiding the fundamentals behind an ORM
+- Focused on understanding NestJS architecture from the inside out
+
+> 🔗 Add the repository link here when ready.
+
+## 📌 Current focus
+
+- 🧠 Going deeper into NestJS beyond surface-level usage
+- 🐳 Learning Docker from scratch
+- 🏗️ Strengthening my system-design foundations
+- 🌍 Applying for remote junior backend roles
+
+<br />
 
 <div align="center">
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamedkernel&show_icons=true&theme=default&hide_border=true)](https://github.com/mohamedkernel)
+### Let's connect
 
-**[github.com/mohamedkernel](https://github.com/mohamedkernel)**
+<a href="https://github.com/mohamedkernel">
+  <img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow Mohamed on GitHub" />
+</a>
+
+<sub>Open to junior backend opportunities and collaboration.</sub>
 
 </div>
