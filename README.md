@@ -50,18 +50,6 @@ I am a self-taught developer and Software Industry & Multimedia student at Alexa
 - Designed around practical coffee-shop workflows
 - Deployed on Railway
 
-> 🔗 Add your repository and live API links here once they are public.
-
-### 📚 Library API
-
-**NestJS learning project** — currently in progress.
-
-- Connects NestJS to PostgreSQL using **raw SQL**
-- Uses dependency injection without hiding the fundamentals behind an ORM
-- Focused on understanding NestJS architecture from the inside out
-
-> 🔗 Add the repository link here when ready.
-
 ## 📌 Current focus
 
 - 🧠 Going deeper into NestJS beyond surface-level usage
